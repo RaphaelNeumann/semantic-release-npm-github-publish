@@ -36,7 +36,7 @@
   ],
   "license": "MIT",
   "main": "release.config.js",
-  "name": "semantic-release-npm-github-publish",
+  "name": "semantic-release-npm-publish",
   "peerDependencies": {
     "semantic-release": ">=18.0.0"
   },
