@@ -1,13 +1,6 @@
 
 const customTransform = require("./commit-transform");
-const relese_plugin = [
-	['@semantic-release/release-notes-generator', {
-      writerOpts: {
-        transform: (commit, context) => customTransform,
-      }
-    }]
-]
-const plugins = require("./plugins").concat(relese_plugin);
+const plugins = require("./plugins");
 
 
 module.exports = {

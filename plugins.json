@@ -34,6 +34,11 @@
 			]
 		}
 	],
+	[
+		"@release-it/conventional-changelog", {
+		"preset": "@favoloso/emoji"
+		}
+	],
 	"@semantic-release/changelog",
 	"@semantic-release/npm",
 	[
