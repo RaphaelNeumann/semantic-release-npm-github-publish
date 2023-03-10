@@ -34,11 +34,6 @@
 			]
 		}
 	],
-	['@semantic-release/release-notes-generator', {
-      writerOpts: {
-        transform: (commit, context) => customTransform,
-      }
-    }],
 	"@semantic-release/changelog",
 	"@semantic-release/npm",
 	[
