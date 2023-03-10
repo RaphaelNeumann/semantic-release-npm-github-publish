@@ -5,7 +5,7 @@ const relese_plugin = ['@semantic-release/release-notes-generator', {
         transform: (commit, context) => customTransform,
       }
     }]
-const plugins = [...require("./plugins") ...relese_plugin];
+const plugins = require("./plugins").concat(relese_plugin);
 
 
 module.exports = {
