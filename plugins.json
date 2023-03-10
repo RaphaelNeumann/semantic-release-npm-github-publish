@@ -39,7 +39,7 @@
 		
 		{
 			writerOpts: {
-        transform: (commit, context) => customTransform,
+        transform: (commit, context) => customTransform
       }
 		}
 	],
