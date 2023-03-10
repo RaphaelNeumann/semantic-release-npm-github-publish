@@ -1,3 +1,20 @@
+# [1.2.0](https://github.com/RaphaelNeumann/semantic-release-npm-publish/compare/v1.1.0...v1.2.0) (2023-03-10)
+
+
+### chore
+
+* try to use concat() ([5d8786d](https://github.com/RaphaelNeumann/semantic-release-npm-publish/commit/5d8786d2405763e79f0f6234c2c33f90da78f2bc))
+
+
+### feat
+
+* add release to plugins ([f0d008f](https://github.com/RaphaelNeumann/semantic-release-npm-publish/commit/f0d008f0f554b2f06855140e63dc19d110d43423))
+
+
+### fix
+
+* typo ([e35ae3a](https://github.com/RaphaelNeumann/semantic-release-npm-publish/commit/e35ae3a490c9dd1020a4257a1693b6f0829ab1bb))
+
 # 1.0.0 (2023-03-10)
 
 
